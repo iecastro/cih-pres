@@ -1,0 +1,138 @@
+---
+title: "Welcome"
+subtitle: "Behavioral Health Research in Primary Care"
+author: "Jake Hedges, LMHC CPS <br /> Ivan Castro, MSPH <br />  <br />  VISN2 Center for Integrated Healthcare"
+output:
+  xaringan::moon_reader:
+    css: ["shinobi-mod.css", "default"]
+    lib_dir: libs
+    countIncrementalSlides: false
+---
+
+## What is the Center for Integrated Healthcare?  
+
+--
+
+__Mission__  
+
+>To improve the healthcare of Veterans by integrating mental health prevention and treatment services into the primary care setting.  
+
+__Vision__  
+
+>To be a national resource regarding the integration of mental health in primary care.  
+
+--
+
+### Two cores:  
+
+Education and Implementation Services:  
+
+- Train providers of integrated primary care nationally and advise on best practices.  
+- Promote implementation of evidence-based primary care mental health services.  
+
+--
+
+Research:  
+
+- Focuse on discovering more effective and efficient ways to identify and treat mental health concerns in primary care.  
+
+  - Brief assessment and intervention  
+  
+- High priority areas include: substance use, PTSD, depression, sleep distrubances
+
+
+---
+
+class: title-slide
+
+# Primary Care Mental Health Integration (PCMHI)
+
+---
+
+## Why PCMHI? 
+
+- Improves Identification  
+
+  - Identification of depression, psychiatric co-morbidities, and substance misuse _in primary care_.  
+  
+- Improves Access  
+
+  - Reduces wait time for mental health services  
+  - Reduces no-show rates  
+  
+- Engagement in Care  
+
+  - Same-day services in PCMHI increase the odds of attenting future mental health appointments and engaging in specialty treatment (OMH, PCT, STS).  
+  
+--
+
+__Examples of PCMHI interventions__  
+
+- Brief Cognitive Behavioral Therapy (CBT) for Chronic Pain  
+- Tobacco Use Cessation: A Brief Primary Care Intervention  
+- Prolonged Exposure for Primary Care (PE-PC)  
+- Brief CBT for Insomnia  
+
+---
+
+class: title-slide 
+
+# Conducting research within Primary Care 
+---
+
+## Clinical Research  
+
+- Safety assessments  
+
+  - Blessed Orientation-Memory-Concentration Test  
+  - P4 Suicide Screener  
+  - Breathalyzer  
+  
+- Diagnostic assessments  
+  
+  - Clinician Administered PTSD Scale  
+
+- Self-report assessments  
+
+  - PTSD Checklist for DSM-5  
+  - Alcohol Use Disorders Identification Test  
+  - Patient Health Questionnaire  
+  - Substance Use Motives Questionnaire  
+
+---
+
+## Recruitment  
+
+- Patients are recruited from VA primary care clinics  
+  - recruitment letter and phone screens  
+
+- In-person interviews at baseline  
+  - those eligible for a study are randomized to experimental treatment or treatment-as-usual.  
+  
+- Inclusion and exclusion criteria 
+
+--- 
+
+## Some studies we're involved with
+
+- Clinician-supported PTSD Coach  
+  - study incorporates use of a mobile app and focuses on increasing patient's ability to manage symptoms, and preparing them for further treatment if needed.  
+  
+- Primary Care Brief Mindfulness Training  
+  - mindfulness training is not psychotherapy, but these classes are meant to help veterans increase emotional regulation skills.  
+  
+- Primary Care Treatment Integrating Motivation and Exposure  
+  - study focuses on decreasing alcohol use _and_ PTSD symptoms by integrating PE-PC and motivational interviewing for alcohol use.  
+  
+- Peer-Delivered Whole Health Coaching  
+  - intervention is _not_ focused on PTSD symptoms, and is ideal for Veterans with PTSD who are reluctant to talk about behavioral problems.  
+  
+---
+
+## Challenges ?
+
+
+
+
+
+
