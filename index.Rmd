@@ -111,7 +111,7 @@ class: title-slide
   
 - Inclusion and exclusion criteria 
 
---- 
+---
 
 ## Some studies we're involved with
 
@@ -131,7 +131,11 @@ class: title-slide
 
 ## Challenges ?
 
+- barriers...  
 
+- stigma ?   
+
+- 
 
 
 
