@@ -1,7 +1,6 @@
 ---
-title: "Welcome"
-subtitle: "Behavioral Health Research in Primary Care"
-author: "Jake Hedges, LMHC CPS <br /> Ivan Castro, MSPH <br />  <br />  VISN2 Center for Integrated Healthcare"
+title: "Behavioral Health Research in Primary Care"
+author: "<br /> Jake Hedges, LMHC CPS <br /> Ivan Castro, MSPH <br />  <br />  VISN2 Center for Integrated Healthcare"
 output:
   xaringan::moon_reader:
     css: ["shinobi-mod.css", "default"]

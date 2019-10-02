@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Domine);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 
 /******************
@@ -9,7 +9,7 @@
 
 :root {
     --main-color1: #161738;
-    --main-color2: #202040;
+    --main-color2: #202040;  
     --main-color3: #282c4b;
     --main-color4: #202040;
     --main-color5: #474863;
@@ -51,7 +51,7 @@
   font-family: monospace;
 }
 
-.title-slide h1 { padding-top: 20%; font-size: 4em;}
+.title-slide h1 { padding-top: 20%; font-size: 3em;}
 .title-slide h1, .title-slide h2, .title-slide h3  {
   padding-left: 4%!important;
   padding-right: 4%!important;
@@ -87,7 +87,7 @@
 
 
 h1, h2, h3, body{
-  font-family: 'Domine';
+  font-family: 'Roboto';
   font-weight: normal;
 }
 .remark-code, .remark-inline-code {
