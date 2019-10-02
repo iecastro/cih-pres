@@ -136,6 +136,22 @@ class: title-slide
 
 - 
 
+--- 
+
+class: title-slide  
+
+Questions?
+
+---
+
+## Resources  
+
+- [Center for Integrated Healthcare](https://www.mirecc.va.gov/cih-visn2/)  
+
+- [Primary Care - Mental Health Integration](https://www.patientcare.va.gov/primarycare/PCMHI.asp)  
+
+- [Other Integrated Care Links](https://www.mirecc.va.gov/cih-visn2/other_integrated_care_links.asp)  
+
 
 
 
