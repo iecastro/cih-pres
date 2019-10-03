@@ -61,7 +61,7 @@ class: title-slide
   
 - Engagement in Care  
 
-  - Same-day services in PCMHI increase the odds of attenting future mental health appointments and engaging in specialty treatment (OMH, PCT, STS).  
+  - Same-day services in PCMHI increase the odds of attending future mental health appointments and engaging in specialty treatment (OMH, PCT, STS).  
   
 --
 
@@ -108,7 +108,20 @@ class: title-slide
 - In-person interviews at baseline  
   - those eligible for a study are randomized to experimental treatment or treatment-as-usual.  
   
-- Inclusion and exclusion criteria 
+- Inclusion criteria  
+  - diagnostic level (or subthreshold) PTSD  
+    - PCL-5 >= 30  
+  - hazardous alcohol use  
+    - AUDIT 6-25 (women) or 8-25 (men)  
+  
+- Exclusion criteria  
+  - gross cognitive impairment  
+  - recent suicidal intent or attempt  
+  - current psychotherapy for PTSD  
+  - medication  
+    - changes in last 2 months for PTSD  
+    - or current prescription for substance use (alcohol studies)  
+  - desire to begin specialty care  
 
 ---
 
@@ -134,13 +147,15 @@ class: title-slide
 
 - Stigma/Motivation to change   
 
-- "Don't waste resources on me", "This should go to someone who really needs it"
+- Perceptions  
+  - *Don't waste resources on me*  
+  - *This should go to someone who really needs it*   
 
 --
 
-- Assessments can be exhausting and frustrating  
+- Assessments can be exhausting, and frustrating  
  
-- Studies may require "homework", use of tools at home  
+- Studies may require 'homework', or use of tools at home  
 
 ---
 
