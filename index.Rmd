@@ -20,20 +20,21 @@ __Vision__
 
 >To be a national resource regarding the integration of mental health in primary care.  
 
---
+---
 
-### Two cores:  
+### Two cores of CIH  
 
-Education and Implementation Services:  
+__Education and Implementation Services:__   
 
 - Train providers of integrated primary care nationally and advise on best practices.  
+
 - Promote implementation of evidence-based primary care mental health services.  
 
 --
 
-Research:  
+__Research:__    
 
-- Focuse on discovering more effective and efficient ways to identify and treat mental health concerns in primary care.  
+- Focuses on discovering more effective and efficient ways to identify and treat mental health concerns in primary care.  
 
   - Brief assessment and intervention  
   
@@ -63,13 +64,16 @@ class: title-slide
 
   - Same-day services in PCMHI increase the odds of attenting future mental health appointments and engaging in specialty treatment (OMH, PCT, STS).  
   
---
+---
 
-__Examples of PCMHI interventions__  
+### Examples of PCMHI interventions  
 
 - Brief Cognitive Behavioral Therapy (CBT) for Chronic Pain  
+
 - Tobacco Use Cessation: A Brief Primary Care Intervention  
+
 - Prolonged Exposure for Primary Care (PE-PC)  
+
 - Brief CBT for Insomnia  
 
 ---
@@ -128,19 +132,19 @@ class: title-slide
   
 ---
 
-## Challenges ?
+## Challenges to Recruitment and Engagement
 
-- barriers...  
+- Reluctance to talk about trauma  
 
-- stigma ?   
+- Stigma/Motivation to change   
 
-- 
+- "Don't waste resources on me", "This should go to someone who really needs it"
 
---- 
+--
 
-class: title-slide  
-
-Questions?
+- Assessments can be exhausting and frustrating  
+ 
+- Studies may require "homework", use of tools at home  
 
 ---
 
