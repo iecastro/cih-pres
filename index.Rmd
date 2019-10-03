@@ -24,7 +24,7 @@ __Vision__
 
 ### Two cores of CIH  
 
-__Education and Implementation Services:__   
+__Education and Implementation Services__   
 
 - Train providers of integrated primary care nationally and advise on best practices.  
 
@@ -32,15 +32,13 @@ __Education and Implementation Services:__
 
 --
 
-
-__Research:__    
+__Research__  
 
 - Focuses on discovering more effective and efficient ways to identify and treat mental health concerns in primary care.  
 
   - Brief assessment and intervention  
   
 - High priority areas include: substance use, PTSD, depression, sleep distrubances
-
 
 ---
 
