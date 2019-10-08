@@ -92,7 +92,9 @@ class: title-slide
 ## Why Primary Care?  
 
 - Mental health disorders are common among patients in VA primary care  
-
+  - yet, many don't seek treatment
+  - or allow referrals to specialty mental health services to lapse  
+  
 - Around 11% meet diagnostic criteria for alcohol use disorder (AUD)  
 
 - 12% meet criteria for generalized anxiety disorder (GAD)  
@@ -301,6 +303,8 @@ Fuhrer and Keyes, 2019. [Population Mental Health in the 21st Century: Time to A
 Gradus, 2019. [Epidemiology of PTSD](https://www.ptsd.va.gov/professional/treat/essentials/epidemiology.asp)  
 
 Milanak et al., 2013. [Prevalence and features of generalized anxiety disorder in Department of Veteran Affairs primary care settings](https://www.ncbi.nlm.nih.gov/pubmed/23659756)  
+
+Possemato et al., 2018. [Patient outcomes associated with primary care behavioral health services: A systematic review](https://www.sciencedirect.com/science/article/abs/pii/S016383431830063X)  
 
 Spoont et al., 2015. [Does This Patient Have Posttraumatic Stress Disorder?](https://jamanetwork.com/journals/jama/fullarticle/2422547?resultClick=1)  
 
