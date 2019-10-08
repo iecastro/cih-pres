@@ -91,7 +91,7 @@ class: title-slide
 
 ## Why Primary Care?  
 
-- Mental health disorders are common among patients in VA primary care clinics    
+- Mental health disorders are common among patients in VA primary care  
 
 - Around 11% meet diagnostic criteria for alcohol use disorder (AUD)  
 
@@ -237,9 +237,9 @@ class: title-slide
   - 1 in 25 adults or 11.4 million people  
   
 - 16.5% of US youth (age 6-17) experienced a mental health disorder in 2016  
-  - 7.7 million people  
+  - 7.7 million children    
   
-- 3.7 of US adults experienced co-occurring substance use disorder and mental illness in 2018  
+- 3.7% of US adults experienced co-occurring substance use disorder and mental illness in 2018  
   - 9.2 million people  
 .pull-right[
 ![](pics/green-ribbon.jpg)]
@@ -282,6 +282,10 @@ knitr::include_graphics("pics/signs.PNG")
 - [Other Integrated Care Links](https://www.mirecc.va.gov/cih-visn2/other_integrated_care_links.asp)  
 
 - [National Center for PTSD](https://www.ptsd.va.gov/index.asp)  
+
+- [CDC - Mental Health](https://www.cdc.gov/mentalhealth/learn/index.htm)  
+
+- [Mental Health Screening Tools](https://screening.mhanational.org/screening-tools)  
 
 
 ---
